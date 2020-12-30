@@ -121,7 +121,7 @@ h3{display: inline;font-size: 16px;font-weight:bold; margin:8px;border-left:3px 
 .content .title h1{font-size: 18px;font-weight: bold;text-align: center;height:40px;line-height:40px;}
 .content .content_box{background-color: #FFF;}
 .content_box .info_text{text-align: center;height:60px;line-height:30px;border-bottom: 1px #cfcfcf dashed;}
-.content .content_box .text{height:auto; padding:5%;line-height:2em; overflow:hidden;text-overflow:ellipsis;}
+.content .content_box .text{height:auto; padding:5%;line-height:2em;font-size: 14px; overflow:hidden;text-overflow:ellipsis;}
 .content .content_box h4{margin:10px 0;font-size: 14px;font-weight: bold;}
 .content .content_box .text p {font-family: 宋体, sans-serif!important;font-size: 14px; }
 .content .content_box .text img {text-align: center;}
